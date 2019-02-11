@@ -1,0 +1,6 @@
+﻿  소스.c
+c:\users\jisu\source\repos\project8\project8\소스.c(47): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const int *'입니다.
+c:\users\jisu\source\repos\project8\project8\소스.c(61): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\project8\project8\소스.c(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  Project8.vcxproj -> C:\Users\Jisu\source\repos\Project8\Debug\Project8.exe
